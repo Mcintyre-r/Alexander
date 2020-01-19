@@ -109,7 +109,7 @@
   * Carefully take second explosion
   * Move north to Bait Last cleave
 
-8. The Eigth 
+8. The Eighth 
   * Wait South of east puddle until first puddle explosion. 
   * Carefully take second explosion
   * Move north to Bait Last cleave
