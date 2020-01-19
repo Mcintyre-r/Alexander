@@ -75,44 +75,44 @@
 * Check Number 
 
 1. The First
-..* Stand in West Puddle and bait cleave out of the arena
-..* Move outside to West of the arena
-..* Wait until last puddle, and take west 
+  * Stand in West Puddle and bait cleave out of the arena
+  * Move outside to West of the arena
+  * Wait until last puddle, and take west 
 
 2. The Second
-..* Stand in East Puddle and bait dash out of the arena
-..* Move outside to East of the arena
-..* Wait until last puddle, and take east
+  * Stand in East Puddle and bait dash out of the arena
+  * Move outside to East of the arena
+  * Wait until last puddle, and take east
 
 3. The Third
-..* Wait for Chakrams then bait Cruise to cleave south of arena between puddles
-..* Move to West of arena at mkB
-..* Wait for everything to resolve
+  * Wait for Chakrams then bait Cruise to cleave south of arena between puddles
+  * Move to West of arena at mkB
+  * Wait for everything to resolve
 
 4. The Fourth
-..* Run to side of Alexander with most space
-..* Move out of the way of Sacrament bait dash there
-..* Move to B after
+  * Run to side of Alexander with most space
+  * Move out of the way of Sacrament bait dash there
+  * Move to B after
 
 5. The Fifth
-..* Take First west puddle after first cleave and dash
-..* If puddle is north be very careful of Apoc.
-..* Move to South to bait cleave
+  * Take First west puddle after first cleave and dash
+  * If puddle is north be very careful of Apoc.
+  * Move to South to bait cleave
 
 6. The Sixth
-..* Take First East puddle after first dash. 
-..* If puddle is north be very careful of Apoc. 
-..* Move to South to bait dash
+  * Take First East puddle after first dash. 
+  * If puddle is north be very careful of Apoc. 
+  * Move to South to bait dash
 
 7. The Seventh
-..* Wait South of west puddle until first puddle explosion. 
-..* Carefully take second explosion
-..* Move north to Bait Last cleave
+  * Wait South of west puddle until first puddle explosion. 
+  * Carefully take second explosion
+  * Move north to Bait Last cleave
 
 8. The Eigth 
-..* Wait South of east puddle until first puddle explosion. 
-..* Carefully take second explosion
-..* Move north to Bait Last cleave
+  * Wait South of east puddle until first puddle explosion. 
+  * Carefully take second explosion
+  * Move north to Bait Last cleave
 
 * Stack center for damage
 * Stand center for enumeration
@@ -138,7 +138,7 @@
 * One player gets Dark Beacon, This player stands on mkD
 * Everyone else will either get a Dark or Light debuff they stand on mk2
 * During this Alex will either cast Ordained Motion or Ordained Stillness
-..* Stop for Stillness, Move for Motion
+  * Stop for Stillness, Move for Motion
 
 ## Optical Sight
 
